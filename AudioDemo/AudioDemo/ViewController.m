@@ -36,6 +36,7 @@
     NSLog(@"test the method");
 }
 
+
 - (void)add
 {
     NSLog(@"your friends");
@@ -44,6 +45,11 @@
 - (void)makeNewThing
 {
     NSLog(@"--- lost youer self");
+}
+
+- (void)makeItClear
+{
+    NSLog(@"clear");
 }
 
 - (void)didReceiveMemoryWarning {
