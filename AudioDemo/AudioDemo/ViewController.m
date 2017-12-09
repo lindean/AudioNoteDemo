@@ -26,6 +26,16 @@
     NSLog(@"add View");
 }
 
+- (void)testTheMerge
+{
+    NSLog(@"merge the branch");
+}
+
+- (void)doSomeThingAgain
+{
+    NSLog(@"test the method");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
