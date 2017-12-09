@@ -36,6 +36,16 @@
     NSLog(@"test the method");
 }
 
+- (void)add
+{
+    NSLog(@"your friends");
+}
+
+- (void)makeNewThing
+{
+    NSLog(@"--- lost youer self");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
